@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true"
+  },
+  "ConnectionString": {
+    "sqlserver_local": "Data Source=(local)\\DELL-PTFD4;Initial Catalog=DBTest;Integrated Security=True;",
+    "sqlserver_azure": "{DB_CONNECTIONS_TRING}"
+  }
+}
